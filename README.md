@@ -1,2 +1,2 @@
 ## Hello
-This is VSCode Playground
+This is VSCode Playground.
